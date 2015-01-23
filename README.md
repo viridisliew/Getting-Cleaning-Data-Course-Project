@@ -1,5 +1,5 @@
 # Getting-Cleaning-Data-Course-Project
-Purpose of project
+### Purpose of project
 
 The purpose of this project is to achieve a tidy data set with the average of choosen variables for each activity and each subject from a given set of raw data. 
 
@@ -18,12 +18,12 @@ It can be achieved by following the steps below.
 
 6. You should have there a new file called TidyData.txt in your working directory
 
-Required packages
+### Required packages
 
 The "run_analysis.R" script requires a package "reshape2" to be installed (if you are taking the Getting and Cleaning Data course you most probably have it already installed).
 
 
-What steps the R script takes?
+### What steps the R script takes?
 
 The script does the following:
 
