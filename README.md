@@ -20,7 +20,7 @@ It can be achieved by following the steps below.
 
 ### Required packages
 
-The "run_analysis.R" script requires a package "reshape2" to be installed (if you are taking the Getting and Cleaning Data course you most probably have it already installed).
+The "run_analysis.R" script requires a package "reshape2" to be installed
 
 
 ### What steps the R script takes?
