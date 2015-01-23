@@ -1,9 +1,10 @@
 # Getting-Cleaning-Data-Course-Project
 Purpose of project
 
-The purpose of this project is to achieve from a row data a tidy data set with the average of choosen variables for each activity and each subject. It can be achieved by following the steps below.
+The purpose of this project is to achieve a tidy data set with the average of choosen variables for each activity and each subject from a given set of raw data. 
 
-Steps to take
+It can be achieved by following the steps below.
+
 
 1. Download the data from the link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
