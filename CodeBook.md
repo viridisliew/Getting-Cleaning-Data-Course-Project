@@ -1,4 +1,4 @@
-# Coursera Getting and Cleaning Data project
+#  Getting and Cleaning Data Course Project
 
 ### Original data and its description
 
@@ -8,7 +8,7 @@
 
 ### Information about the variables
 
-The variables used in this project are described in the features_info.txt file that comes with the row data set. Below you can find a part of this description.
+The variables used in this project are described in the features_info.txt file that comes with the raw data set. Below you can find a summary of this description.
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz.
 
@@ -43,7 +43,7 @@ The set of variables that were estimated from these signals are:
 * std(): Standard deviation
 
 
-Addictionally there are data that identifies the subject id and the activity:
+Additionally there are data that identifies the subject id and the activity:
 * Subject
 * Activity
 
